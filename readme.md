@@ -1,16 +1,6 @@
-test
-test
-sds
-sds
-ds
-d
-sds
-d
-sdsds
-dsss
-dsds
-dsdss
-d
-wrwerwerewrwrwrwerwerwrwerwerrwrwrw
-s
+Here is the output:
+
+Hiteshs-MBP:fileupload hiteshmac$ curl --upload-file readme.md http://localhost:8083
+progress: 100%
+uploaded!
 # nodeFileUpload
